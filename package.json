@@ -1,0 +1,9 @@
+{
+  "name": "sun-bot",
+  "version": "1.0.0",
+  "description": "Run Python bot on Railway",
+  "main": "sun.py",
+  "scripts": {
+    "start": "python3 sun.py"
+  }
+}
